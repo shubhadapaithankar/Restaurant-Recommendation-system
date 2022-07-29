@@ -10,3 +10,6 @@ https://www.kaggle.com/datasets/siddharthmandgi/tripadvisor-restaurant-recommend
 ## Set the name of the restaurant as an index so that find similar restaurants by giving the name of the restaurant as an input:
 
 <img width="1440" alt="Screen Shot 2022-07-28 at 4 51 47 PM" src="https://user-images.githubusercontent.com/99461999/181656483-d5bcb463-88da-45a8-b940-73dda68f1adf.png">
+
+## Conclusion :
+A restaurant recommender system is an application that recommends similar restaurants to a customer according to the customer’s taste. I hope you liked this article on building a restaurant recommender system using Python
